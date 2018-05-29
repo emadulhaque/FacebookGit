@@ -11,5 +11,6 @@ public class SmokeTest extends BaseTest
 	
 		System.out.println("Hi mr Anwar");
 		Thread.sleep(6000);
+		System.out.println("Cognigent");
 	}
 }
