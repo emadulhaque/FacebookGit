@@ -9,6 +9,7 @@ public class SmokeTest extends BaseTest
 	public void openFacebook() throws InterruptedException 
 	{
 	
+		System.out.println("Hi mr Anwar");
 		Thread.sleep(6000);
 	}
 }
